@@ -27,6 +27,8 @@ Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz .
 
 ![Resim4](https://github.com/Abdullahakp/TIVITLE_Sunum/assets/65625793/55ec0abd-721c-4ce2-8c1e-b43ccd4e0370)
 ![Resim5](https://github.com/Abdullahakp/TIVITLE_Sunum/assets/65625793/2dc852a6-4302-4dfe-8dc5-8b0fe2effc15)
-![Resim6](https://github.com/Abdullahakp/TIVITLE_Sunum/assets/65625793/0fa7db20-7243-424e-affc-88f4f698359b)
+
+![Resim7](https://github.com/Abdullahakp/TIVITLE_Sunum/assets/65625793/f51adb76-adff-469c-90d3-a9f5eb028876)
+
 ![image](https://github.com/Abdullahakp/TIVITLE_Sunum/assets/65625793/4afdceca-6f68-43f6-8d44-cc796b33974c)
 
